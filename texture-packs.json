@@ -1,10 +1,10 @@
 {
   "packs": [
     {
-      "id": "supercute_texture_pack",
-      "name": "Minecraft Super Cute Texture Pack",
+      "id": "retro_texture_pack",
+      "name": "Minecraft Retro Texture Pack",
       "description": "The Super Cute Texture Pack lets you create a cheerful world full of the cutest and cuddliest mobs! Bouncing bunnies, ultra-adorable unicorns, brilliant bumblebees and, er, burgers? Yes, burgers! Even the squid will make you Squeee! This pack adds super cute textures for blocks, items, entities, and UI.",
-      "downloadURI": "https://cdn.modrinth.com/data/ohS9Jkb7/versions/nrtOJiLM/Super%20Cute%20Texture%20Pack.zip",
+      "downloadURI": "https://cdn.modrinth.com/data/ZrW0og1b/versions/kDjoaCrq/F8thful.zip",
       "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_pack_preview_images/supercute_preview.png"
     },
     {
