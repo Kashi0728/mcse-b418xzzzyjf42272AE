@@ -15,11 +15,11 @@
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/super_cute-store-icon.png"
     },
     {
-      "id": "plastic_texture_pack",
-      "name": "Minecraft Plastic Texture Pack",
-      "description": "Make your worlds simple, colorful and vibrant! This brightly colored and simple pack adds plastic-themed textures for blocks, items, and entities, along with a completely transformed UI.",
-      "downloadURI": "https://cdn.modrinth.com/data/meEXwbr9/versions/rO6NFLGh/Plastic%20Texture%20Pack.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_pack_preview_images/plastic_preview.png"
+      "id": "egyptian",
+      "name": "Egyptian Mythology",
+      "description": "Will you survive the perils of the Pyramids? Journey through the Valley of the Kings, dodge deadly traps and explore the ancient tombs below! The fourth pack in the Mythology series, this Egyptian-themed Mash-up comes with textures fit for a Pharaoh, legendary mobs and an epic soundtrack!",
+      "downloadURI": "https://cdn.discordapp.com/attachments/1500463602207817898/1501199679684218882/04-Egyptian_Mythology_Mash-up.zip?ex=69fb34a6&is=69f9e326&hm=aa7591e6cc35cb0a06d2cbc8c999c4716251447d263ef504a9f657a97bee6dc3&",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/egyptian-store-icon.png"
     },
     {
       "id": "natural_texture_pack",
