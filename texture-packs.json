@@ -10,30 +10,30 @@
     {
       "id": "super_cute",
       "name": "Super Cute Texture Pack",
-      "description": "The Super Cute Texture Pack lets you create a cheerful world full of the cutest and cuddliest mobs! Bouncing bunnies, ultra-adorable unicorns, brilliant bumblebees and, er, burgers? Yes, burgers! Even the squid will make you Squeee!",
+      "description": "The Super Cute Texture Pack lets you create a cheerful world full of the cutest and cuddliest mobs! Bouncing bunnies, ultra-adorable unicorns, brilliant bumblebees and, er, burgers? Yes, burgers! Even the squid will make you Squeee! This texture pack comes with 15 skins!",
       "downloadURI": "https://cdn.discordapp.com/attachments/1500463602207817898/1501188132098277486/03-Super_Cute_Texture_Pack.zip?ex=69fb29e5&is=69f9d865&hm=4c04438bfd37eba25dc8e888861a5a4bcb8c97b9a923979c28bf5f1f4a9bcb1c&",
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/super_cute-store-icon.png"
     },
     {
       "id": "egyptian",
       "name": "Egyptian Mythology",
-      "description": "Will you survive the perils of the Pyramids? Journey through the Valley of the Kings, dodge deadly traps and explore the ancient tombs below! The fourth pack in the Mythology series, this Egyptian-themed Mash-up comes with textures fit for a Pharaoh, legendary mobs and an epic soundtrack!",
+      "description": "Will you survive the perils of the Pyramids? Journey through the Valley of the Kings, dodge deadly traps and explore the ancient tombs below! The fourth pack in the Mythology series, this Egyptian-themed Mash-up comes with textures fit for a Pharaoh, legendary mobs, a pantheon of skins and an epic soundtrack!",
       "downloadURI": "https://cdn.discordapp.com/attachments/1500463602207817898/1501199679684218882/04-Egyptian_Mythology_Mash-up.zip?ex=69fb34a6&is=69f9e326&hm=aa7591e6cc35cb0a06d2cbc8c999c4716251447d263ef504a9f657a97bee6dc3&",
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/egyptian-store-icon.png"
     },
     {
-      "id": "natural_texture_pack",
-      "name": "Natural Texture Pack",
-      "description": "Give your worlds a more natural look. A texture pack based on soft colors and lines.This pack includes detailed textures for blocks, items, entities, and UI that give a refined feel without straying too far from the vanilla game.",
+      "id": "norse",
+      "name": "Norse Mythology",
+      "description": "Are you heroic enough to enter the Great Hall, Valhalla? Find out in the Norse Mythology Mash-up! Compose your own grand saga as you voyage through the 9 realms, from the treetops of Yggdrasil, down into the mines of Svartalfheim and the depths of Hel! The third episode in the mythology series, this pack has hand carved textures, a thunderous soundtrack and a horde of skins. Skål!",
       "downloadURI": "https://cdn.modrinth.com/data/wl6YG9AY/versions/OZPNrPKm/Natural%20Texture%20Pack.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_pack_preview_images/natural_preview.png"
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/norse-store-icon.png"
     },
     {
-      "id": "fantasy_texture_pack",
-      "name": "Minecraft Fantasy Texture Pack",
-      "description": "Transport yourselves to a time where knights were heroes. This pack adds a medieval, fantasy look for blocks, items, entities, and UI.",
+      "id": "festive",
+      "name": "Festive",
+      "description": "Celebrate the Festive period with this wintery Mash-Up Pack! This pack contains a Festive style Texture Pack, Skin Pack, new music and a Festive world.",
       "downloadURI": "https://cdn.modrinth.com/data/kFbEIMmd/versions/kVfBtnvh/Fantasy%20Texture%20Pack.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_pack_preview_images/fantasy_preview.png"
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/festive-store-icon.png"
     },
     {
       "id": "candy_texture_pack",
