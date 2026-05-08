@@ -43,11 +43,11 @@
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/chinese-store-icon.png"
     },
     {
-      "id": "cartoon_texture_pack",
-      "name": "Minecraft Cartoon Texture Pack",
-      "description": "Googly eyes! Goofy grins! Turn your world into a toon with this pack. This pack adds themed textures for blocks, items, entities, and UI.",
-      "downloadURI": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/3jwtSKEQ/Cartoon%20Texture%20Pack.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_pack_preview_images/cartoon_preview.png"
+      "id": "7greek",
+      "name": "Greek Mythology",
+      "description": "Mythical Greece meets Minecraft! This Mash-Up Pack contains a Greek Mythology style Texture Pack, Skin Pack, and a themed world to explore.",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/grmyt_26.1.2_tp/08-Greek.Mythology.Mash-up.zip",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/greek-store-icon.png"
     },
     {
       "id": "steampunk_texture_pack",
