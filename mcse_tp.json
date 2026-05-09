@@ -58,10 +58,115 @@
     },
     {
       "id": "city_mcse",
-      "name": "City Texture Pack (Coming Soon!)",
+      "name": "City Texture Pack (In Development)",
       "description": "A creative texture set, ideal for building structures. The perfect set for the focused builder.",
       "downloadURI": "placeholder-url",
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/city-store-icon.png"
+    },
+    {
+      "id": "plastic_mcse",
+      "name": "Plastic Texture Pack (In Development)",
+      "description": "A brightly colored, simple texture pack with chocolate block highlighting and simple icons.",
+      "downloadURI": "placeholder-url",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/plastic-store-icon.png"
+    },
+    {
+      "id": "natural_mcse",
+      "name": "Natural Texture Pack (In Development)",
+      "description": "Give your worlds a more natural look. A texture pack based on soft colors and lines.",
+      "downloadURI": "placeholder-url",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/natural-store-icon.png"
+    },
+    {
+      "id": "retro_mcse",
+      "name": "Retro Texture Pack (In Development)",
+      "description": "Bringing back the classics! 8-Bit glory finally comes to Minecraft! Textures inspired by the artstyle of early video games.",
+      "downloadURI": "placeholder-url",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/retro-store-icon.png"
+    },
+    {
+      "id": "fantasy_mcse",
+      "name": "Fantasy Texture Pack (In Development)",
+      "description": "The golden times are here. A medieval, fantasy look for your worlds.",
+      "downloadURI": "placeholder-url",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/fantasy-store-icon.png"
+    },
+    {
+      "id": "candy_mcse",
+      "name": "Candy Texture Pack (In Development)",
+      "description": "Indulge your sweet tooth with this sugar-coated texture pack!",
+      "downloadURI": "placeholder-url",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/candy-store-icon.png"
+    },
+    {
+      "id": "cartoon_mcse",
+      "name": "Cartoon Texture Pack (In Development)",
+      "description": "A Minecraft texture pack to surprise and amuse you. Even the spiders are happy!",
+      "downloadURI": "placeholder-url",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/cartoon-store-icon.png"
+    },
+    {
+      "id": "steampunk_mcse",
+      "name": "Steampunk Texture Pack (In Development)",
+      "description": "Create your own Industrial Revolution with this Victorian inspired Steampunk texture pack!",
+      "downloadURI": "placeholder-url",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/steampunk-store-icon.png"
+    },
+    {
+      "id": "pattern_mcse",
+      "name": "Pattern Texture Pack (In Development)",
+      "description": "Decorate your world with this bright and colorful texture pack filled with beautiful patterns and knitted animals!",
+      "downloadURI": "placeholder-url",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/pattern-store-icon.png"
+    },
+    {
+      "id": "barebones_mcse",
+      "name": "Bare Bones Texture Pack (In Development)",
+      "description": "Do you want to live the simple life? Bare Bones does just that! A texture pack based on simplified textures and vibrant colors.",
+      "downloadURI": "placeholder-url",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/barebones-store-icon.png"
+    },
+    {
+      "id": "n7_mcse",
+      "name": "Mass Effect (In Development)",
+      "description": "Mass Effect meets Minecraft! This Mash-Up Pack contains a Mass Effect style Texture Pack, and a Skin Pack with 36 Mass Effect characters!",
+      "downloadURI": "placeholder-url",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/n7-store-icon.png"
+    },
+    {
+      "id": "n7_mcse",
+      "name": "Mass Effect (In Development)",
+      "description": "Mass Effect meets Minecraft! This Mash-Up Pack contains a Mass Effect style Texture Pack, and a Skin Pack with 36 Mass Effect characters!",
+      "downloadURI": "placeholder-url",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/n7-store-icon.png"
+    },
+    {
+      "id": "halloween_mcse",
+      "name": "Halloween 2015 (In Development)",
+      "description": "Happy Halloween! Dress suitably spookily and prepare for the ultimate Minecraft Halloween thrill ride.",
+      "downloadURI": "placeholder-url",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/halloween-store-icon.png"
+    },
+    {
+      "id": "mario_mcse",
+      "name": "Placeholder #3 (In Development)",
+      "description": "placeholder description",
+      "downloadURI": "placeholder-url",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/placeholder-store-icon.png"
+    },
+    {
+      "id": "golden_age_mcse",
+      "name": "Golden Age Texture Pack (In Development)",
+      "description": "The golden age is back and here to stay! Relive Minecraft's golden age with this beta styled texture pack! This texture pack brings back all classic textures from Minecraft beta, with newer content being re-imagined!",
+      "downloadURI": "placeholder-url",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/golden_age-store-icon.png"
+    },
+    {
+      "id": "beginnings_mcse",
+      "name": "Beginnings Texture Pack (In Development)",
+      "description": "Step in a time machine back to 2010! Relive Minecraft's early days with this alpha styled texture pack! This texture pack includes all classic textures from Minecraft alpha, with newer content being re-imagined!",
+      "downloadURI": "placeholder-url",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/beginnings-store-icon.png"
     }
   ]
 }
