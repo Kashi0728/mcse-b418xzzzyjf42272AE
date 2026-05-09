@@ -57,11 +57,11 @@
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/adventure-store-icon.png"
     },
     {
-      "id": "pattern_texture_pack",
-      "name": "Minecraft: Pattern Texture Pack",
-      "description": "Decorate your world with this bright and colorful texture pack filled with beautiful patterns and knitted animals! This pack adds themed textures for blocks, items, entities, and UI.",
-      "downloadURI": "https://cdn.modrinth.com/data/2F04lb0o/versions/nTsNQYft/Pattern%20Texture%20Pack.zip",
-      "imageUrl": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/texture_pack_preview_images/pattern_preview.png"
+      "id": "city_mcse",
+      "name": "City Texture Pack (Coming Soon!)",
+      "description": "A creative texture set, ideal for building structures. The perfect set for the focused builder.",
+      "downloadURI": "placeholder-url",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/city-store-icon.png"
     }
   ]
 }
