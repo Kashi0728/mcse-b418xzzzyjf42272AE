@@ -85,6 +85,13 @@
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/retro-store-icon.png"
     },
     {
+      "id": "fallout_mcse",
+      "name": "Placeholder #1 (In Development)",
+      "description": "placeholder description",
+      "downloadURI": "placeholder-url",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/placeholder-store-icon.png"
+    },
+    {
       "id": "fantasy_mcse",
       "name": "Fantasy Texture Pack (In Development)",
       "description": "The golden times are here. A medieval, fantasy look for your worlds.",
@@ -125,6 +132,13 @@
       "description": "Do you want to live the simple life? Bare Bones does just that! A texture pack based on simplified textures and vibrant colors.",
       "downloadURI": "placeholder-url",
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/barebones-store-icon.png"
+    },
+    {
+      "id": "littlebigplanet_mcse",
+      "name": "Placeholder #2 (In Development)",
+      "description": "placeholder description",
+      "downloadURI": "placeholder-url",
+      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/placeholder-store-icon.png"
     },
     {
       "id": "n7_mcse",
