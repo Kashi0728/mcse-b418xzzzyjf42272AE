@@ -72,9 +72,9 @@
     },
     {
       "id": "natural_mcse",
-      "name": "Natural Texture Pack (In Development)",
+      "name": "Natural Texture Pack",
       "description": "Give your worlds a more natural look. A texture pack based on soft colors and lines.",
-      "downloadURI": "placeholder-url",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/ntrl_26.1.2_tp/12-Natural.Texture.Pack.zip",
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/natural-store-icon.png"
     },
     {
