@@ -58,9 +58,9 @@
     },
     {
       "id": "city_mcse",
-      "name": "City Texture Pack (In Development)",
+      "name": "City Texture Pack",
       "description": "A creative texture set, ideal for building structures. The perfect set for the focused builder.",
-      "downloadURI": "placeholder-url",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/ct_26.1.2_tp/10-City.Texture.Pack.zip",
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/city-store-icon.png"
     },
     {
