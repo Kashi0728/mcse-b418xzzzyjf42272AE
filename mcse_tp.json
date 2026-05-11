@@ -93,9 +93,9 @@
     },
     {
       "id": "fantasy_mcse",
-      "name": "Fantasy Texture Pack (In Development)",
+      "name": "Fantasy Texture Pack",
       "description": "The golden times are here. A medieval, fantasy look for your worlds.",
-      "downloadURI": "placeholder-url",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/fts_26.1.2_tp/15-Fantasy.Texture.Pack.zip",
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/fantasy-store-icon.png"
     },
     {
