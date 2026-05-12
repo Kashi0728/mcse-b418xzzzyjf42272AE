@@ -128,9 +128,9 @@
     },
     {
       "id": "barebones_mcse",
-      "name": "Bare Bones Texture Pack (In Development)",
+      "name": "Bare Bones Texture Pack",
       "description": "Do you want to live the simple life? Bare Bones does just that! A texture pack based on simplified textures and vibrant colors.",
-      "downloadURI": "placeholder-url",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/bb_26.1.2_tp/Bare.Bones.Texture.Pack.zip",
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/barebones-store-icon.png"
     },
     {
