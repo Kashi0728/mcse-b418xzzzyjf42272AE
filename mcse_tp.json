@@ -134,13 +134,6 @@
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/barebones-store-icon.png"
     },
     {
-      "id": "littlebigplanet_mcse",
-      "name": "Placeholder #2 (In Development)",
-      "description": "placeholder description",
-      "downloadURI": "placeholder-url",
-      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/placeholder-store-icon.png"
-    },
-    {
       "id": "n7_mcse",
       "name": "Mass Effect",
       "description": "Mass Effect meets Minecraft! This Mash-Up Pack contains a Mass Effect style Texture Pack, and a Skin Pack with 36 Mass Effect characters!",
@@ -156,7 +149,7 @@
     },
     {
       "id": "mario_mcse",
-      "name": "Placeholder #3 (In Development)",
+      "name": "Placeholder #2 (In Development)",
       "description": "placeholder description",
       "downloadURI": "placeholder-url",
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/placeholder-store-icon.png"
