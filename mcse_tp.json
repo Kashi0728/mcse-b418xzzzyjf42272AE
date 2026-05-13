@@ -163,9 +163,9 @@
     },
     {
       "id": "golden_age_mcse",
-      "name": "Golden Age Texture Pack (In Development)",
+      "name": "Golden Age Texture Pack",
       "description": "The golden age is back and here to stay! Relive Minecraft's golden age with this beta styled texture pack! This texture pack brings back all classic textures from Minecraft beta, with newer content being re-imagined!",
-      "downloadURI": "placeholder-url",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/ga_26.1.2_tp/Golden.Age.Texture.Pack.zip",
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/golden_age-store-icon.png"
     },
     {
