@@ -3,14 +3,14 @@
                   {
                       "id":  "assets",
                       "name":  "Default Panorama",
-                      "description":  "Default Minecraft Menu Panorama",
+                      "description":  "Default Minecraft Menu Panorama (Delete when installing a new Panorama Pack!)",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/default-panorama.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/default-panorama.png"
                   },
                   {
                       "id":  "assets",
-                      "name":  "4th Birthday Skin Pack",
-                      "description":  "Dress up for the Party with this new, Free Skin pack and celebrate together the 4th Minecraft birthday!",
+                      "name":  "Wild Update Panorama (1.19)",
+                      "description":  "Minecraft Menu Panorama from The Wild Update (1.19) (Delete when installing a new Panorama Pack!)",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/birthday4.zip?checksum=05e4d8dad33fe84d51d33f9c60b4bcfc"
                   },
                   {
