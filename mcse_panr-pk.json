@@ -1,9 +1,9 @@
 {
     "packs":  [
                   {
-                      "id":  "birthday5",
-                      "name":  "5th Birthday Skin Pack",
-                      "description":  "Join the celebrations for the 5th birthday of Minecraft with this new, Free Skin pack featuring the one and only 4J Studios development team! Party on!",
+                      "id":  "assets",
+                      "name":  "Default Panorama",
+                      "description":  "Default Minecraft Panorama",
                       "downloadURI":  "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/birthday5.zip?checksum=cb59b21f6f98c42e3fcde2832149356d"
                   },
                   {
