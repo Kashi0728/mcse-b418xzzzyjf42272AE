@@ -2,16 +2,16 @@
     "packs":  [
                   {
                       "id":  "assets",
-                      "name":  "Default Panorama",
-                      "description":  "Default Minecraft Menu Panorama (Delete when installing a new Panorama Pack!)",
+                      "name":  "Default",
+                      "description":  "A Minecraft Menu Panorama to decorate the main menu with!",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/default-panorama.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/default-panorama-pa.png"
                   },
                   {
                       "id":  "assets",
-                      "name":  "Wild Update Panorama (1.19)",
+                      "name":  "Wild Update",
                       "description":  "Minecraft Menu Panorama from The Wild Update (1.19) (Delete when installing a new Panorama Pack!)",
-                      "downloadURI":  "",
+                      "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/wild-update-panorama-pa.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/wild-update-panorama-pa.png"
                   },
                   {
