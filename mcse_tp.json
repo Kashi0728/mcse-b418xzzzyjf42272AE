@@ -6,16 +6,6 @@
       "description": "Take what you can. Give nothing back! Join Jack and his crew in the Pirates of the Caribbean Mash-up, featuring all of your favorite rogues and rascals. Plot a course from Tortuga to Shipwreck Cove and all the way down to Davy Jones’ Locker. This is the day you will always remember as the day you sailed with Captain Jack Sparrow.",
       "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/tppotc26.1.2/02-Pirates.Of.The.Caribbean.zip",
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/caribbean-store-icon.png",
-      "worldTemplateDownloadURI": "https://github.com/BrandonItaly/LCE-Resources/raw/50525107964bd8589f7534c9470f4a1b21ea9087/world_templates/pirates_of_the_caribbean.mcsave?checksum=3c71ca2803e358ecf00d386fe22c9110",
-      "worldTemplateFolderName": "Pirates of the Carribean Mash-up",
-      "bundlePacks": [
-        {
-          "categoryId": "skinpacks",
-          "id": "piratesofthecaribbean",
-          "name": "Pirates of the Caribbean",
-          "downloadURI": "https://raw.githubusercontent.com/creeper2eletricboogaloo/L4JDownloadableContent/main/skinpacks/packs/piratesofthecaribbean.zip?checksum=7b37cc4854c6f21361aa4563dbc333c4"
-        }
-      ]
     },
     {
       "id": "super_cute_mcse",
