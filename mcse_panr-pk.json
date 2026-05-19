@@ -20,6 +20,13 @@
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/caves-and-cliffs-2-panorama.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/caves-and-cliffs-2-panorama.png"
+                  },
+                  {
+                      "id":  "assets",
+                      "name":  "Caves & Cliffs Part I (1.17)",
+                      "description":  "A Panorama to customize your main menu.",
+                      "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/caves-and-cliffs-panorama.zip",
+                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/caves-and-cliffs-panorama.png"
                   }
               ]
 }
