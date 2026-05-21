@@ -48,6 +48,13 @@
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/village-&-pillage-panorama-pa.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/village-&-pillage-panorama-pa.png"
+                  },
+                  {
+                      "id":  "assets",
+                      "name":  "Update Aquatic (1.13)",
+                      "description":  "A Panorama to customize your main menu.",
+                      "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/update-aquatic-panorama-pa.zip",
+                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/update-aquatic-panorama-pa.png"
                   }
               ]
 }
