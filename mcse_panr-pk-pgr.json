@@ -55,6 +55,13 @@
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/update-aquatic-panorama-pa.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/update-aquatic-panorama-pa.png"
+                  },
+                  {
+                      "id":  "assets",
+                      "name":  "Classic (Beta 1.8)",
+                      "description":  "A Panorama to customize your main menu.",
+                      "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/classic-panorama-pa.zip",
+                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/classic-panorama-pa.png"
                   }
               ]
 }
