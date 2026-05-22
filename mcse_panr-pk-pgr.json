@@ -9,6 +9,13 @@
                   },
                   {
                       "id":  "assets",
+                      "name":  "Trails & Tales (1.20)",
+                      "description":  "A Panorama to customize your main menu.",
+                      "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/trails-and-tales-panorama-pa.zip",
+                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/trails-and-tales-panorama-pa.png"
+                  },
+                  {
+                      "id":  "assets",
                       "name":  "The Wild Update (1.19)",
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/wild-update-panorama-pa.zip",
