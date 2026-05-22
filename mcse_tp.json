@@ -149,9 +149,9 @@
     },
     {
       "id": "mario_mcse",
-      "name": "Super Mario (In Development)",
+      "name": "Super Mario",
       "description": "Super Mario meets Minecraft! This Mash-Up Pack contains a Super Mario style Texture Pack, Skin Pack, and a Super Mario themed world to explore!",
-      "downloadURI": "placeholder-url",
+      "downloadURI": "https://github.com/Kashi0728/mcse-b418xzzzyjf42272AE/releases/download/sm_26.1.2_tp/23-Super.Mario.Mash-up.zip",
       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/mario-store-icon.png"
     }
   ]
