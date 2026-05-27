@@ -2,6 +2,13 @@
     "packs":  [
                   {
                       "id":  "assets",
+                      "name":  "Tiny Takeover (26.1)",
+                      "description":  "A Panorama to customize your main menu.",
+                      "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/tiny-takeover-panorama.zip",
+                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/tiny-takeover-panorama.png"
+                  },
+                  {
+                      "id":  "assets",
                       "name":  "Mounts of Mayhem (1.21.11)",
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/mounts-of-mayhem-panorama.zip",
