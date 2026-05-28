@@ -1,0 +1,11 @@
+{
+    "packs":  [
+                  {
+                      "id":  "p2p_mp",
+                      "name":  "P2P Multiplayer Fix",
+                      "description":  "Test Description... Uhhhh it fixes your multiplayer if it's shit ig. idk mf (I need touch some grass)",
+                      "downloadURI":  "https://cdn.modrinth.com/data/k2ZPuTBm/versions/36eHv1xC/Essential_1-3-10-9_fabric_26-1-2.jar?mr_download_reason=standalone&mr_game_version=26.1.2&mr_loader=fabric",
+                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/tiny-takeover-panorama.png"
+                  }
+              ]
+}
