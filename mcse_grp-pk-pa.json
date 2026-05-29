@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mcse_grp-pk-lw",
+    "title": {
+      "translate": "Lightweight"
+    },
+    "indexUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/mcse_grp-pk-pa.json",
+    "targetDirectoryName": "shaderpacks",
+    "requiresResourceReload": false
+  },
+  {
+    "id": "mcse_grp-pk-hv",
+    "title": {
+      "translate": "Heavy"
+    },
+    "indexUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/mcse_grp-pk-pa.json",
+    "targetDirectoryName": "shaderpacks",
+    "requiresResourceReload": false
+  }
+]
