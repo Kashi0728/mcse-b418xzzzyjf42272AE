@@ -1,20 +1,11 @@
-[
-  {
-    "id": "mcse_grp-pk-lw",
-    "title": {
-      "translate": "Lightweight"
-    },
-    "indexUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/mcse_grp-pk-pa.json",
-    "targetDirectoryName": "shaderpacks",
-    "requiresResourceReload": false
-  },
-  {
-    "id": "mcse_grp-pk-hv",
-    "title": {
-      "translate": "Heavy"
-    },
-    "indexUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/mcse_grp-pk-pa.json",
-    "targetDirectoryName": "shaderpacks",
-    "requiresResourceReload": false
-  }
-]
+{
+    "packs":  [
+                  {
+                      "id":  "vibrant_visuals",
+                      "name":  "Vibrant Visuals",
+                      "description":  "Make your world a little more vibrant! Bring fresh but familiar feeling visuals to your Minecraft with improved/dynamic lighting, water reflections, and pixelated shadows (Steam Deck LCD/OLED Compatible). (Requires restart)",
+                      "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/vibrant_visuals.zip",
+                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/vibrant-visuals-pa.png"
+                  }
+              ]
+}
