@@ -1,7 +1,7 @@
 {
     "packs":  [
                   {
-                      "id":  "vibrant_visuals",
+                      "id":  "vibrant_visuals.zip",
                       "name":  "Vibrant Visuals",
                       "description":  "Make your world a little more vibrant! Bring fresh but familiar feeling visuals to your Minecraft with improved/dynamic lighting, water reflections, and pixelated shadows (Compatible with Steam Deck LCD/OLED).",
                       "downloadURI":  "https://cdn.modrinth.com/data/UaS8ROxa/versions/hOUPzbJs/miniature-shader-2.18.11.zip?mr_download_reason=standalone",
