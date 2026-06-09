@@ -9,14 +9,21 @@
                   },
                   {
                       "id":  "custom_261",
-                      "name":  "Update Aquatic (1.13)",
+                      "name":  "Village & Pillage",
+                      "description":  "A 3D Menu World to customize your VR mode menu environment. (Restart Required)",
+                      "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/village-and-pillage-menu-world.zip",
+                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/village-and-pillage-menu-world-pa.png"
+                  },
+                  {
+                      "id":  "custom_261",
+                      "name":  "Update Aquatic",
                       "description":  "A 3D Menu World to customize your VR mode menu environment. (Restart Required)",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/update-aquatic-menu-world.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/update-aquatic-menu-world-pa.png"
                   },
                   {
                       "id":  "custom_261",
-                      "name":  "Classic (Beta 1.8)",
+                      "name":  "Classic",
                       "description":  "A 3D Menu World to customize your VR mode menu environment. (Restart Required)",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/classic-menu-world.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/classic-menu-world-pa.png"
