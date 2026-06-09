@@ -9,6 +9,13 @@
                   },
                   {
                       "id":  "custom_261",
+                      "name":  "Tricky Trials",
+                      "description":  "A 3D Menu World to customize your VR mode menu environment. (Restart Required)",
+                      "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/tricky-trials-menu-world.zip",
+                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/tricky-trials-menu-world.png"
+                  },
+                  {
+                      "id":  "custom_261",
                       "name":  "Trails & Tales",
                       "description":  "A 3D Menu World to customize your VR mode menu environment. (Restart Required)",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/trails-and-tales-menu-world.zip",
