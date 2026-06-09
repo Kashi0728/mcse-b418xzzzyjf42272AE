@@ -2,84 +2,84 @@
     "packs":  [
                   {
                       "id":  "assets",
-                      "name":  "Tiny Takeover (26.1)",
+                      "name":  "Tiny Takeover",
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/tiny-takeover-panorama-pa.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/tiny-takeover-panorama-pa.png"
                   },
                   {
                       "id":  "assets",
-                      "name":  "Mounts of Mayhem (1.21.11)",
+                      "name":  "Mounts of Mayhem",
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/mounts-of-mayhem-panorama-pa.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/mounts-of-mayhem-panorama-pa.png"
                   },
                   {
                       "id":  "assets",
-                      "name":  "Tricky Trials (1.21)",
+                      "name":  "Tricky Trials",
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/tricky-trials-panorama-pa.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/tricky-trials-panorama-pa.png"
                   },
                   {
                       "id":  "assets",
-                      "name":  "Trails & Tales (1.20)",
+                      "name":  "Trails & Tales",
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/trails-and-tales-panorama-pa.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/trails-and-tales-panorama-pa.png"
                   },
                   {
                       "id":  "assets",
-                      "name":  "The Wild Update (1.19)",
+                      "name":  "The Wild Update",
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/wild-update-panorama-pa.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/wild-update-panorama-pa.png"
                   },
                   {
                       "id":  "assets",
-                      "name":  "Caves & Cliffs Part II (1.18)",
+                      "name":  "Caves & Cliffs Part II",
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/caves-and-cliffs-2-panorama-pa.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/caves-and-cliffs-2-panorama-pa.png"
                   },
                   {
                       "id":  "assets",
-                      "name":  "Caves & Cliffs Part I (1.17)",
+                      "name":  "Caves & Cliffs Part I",
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/caves-and-cliffs-panorama-pa.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/caves-and-cliffs-panorama-pa.png"
                   },
                   {
                       "id":  "assets",
-                      "name":  "The Nether Update (1.16)",
+                      "name":  "The Nether Update",
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/nether-update-panorama-pa.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/nether-update-panorama-pa.png"
                   },
                   {
                       "id":  "assets",
-                      "name":  "Buzzy Bees (1.15)",
+                      "name":  "Buzzy Bees",
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/buzzy-bees-panorama-pa.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/buzzy-bees-panorama-pa.png"
                   },
                   {
                       "id":  "assets",
-                      "name":  "Village & Pillage (1.14)",
+                      "name":  "Village & Pillage",
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/village-&-pillage-panorama-pa.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/village-&-pillage-panorama-pa.png"
                   },
                   {
                       "id":  "assets",
-                      "name":  "Update Aquatic (1.13)",
+                      "name":  "Update Aquatic",
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/update-aquatic-panorama-pa.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/update-aquatic-panorama-pa.png"
                   },
                   {
                       "id":  "assets",
-                      "name":  "Classic (Beta 1.8)",
+                      "name":  "Classic",
                       "description":  "A Panorama to customize your main menu.",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/classic-panorama-pa.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/classic-panorama-pa.png"
