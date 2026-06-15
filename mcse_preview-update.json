@@ -1,10 +1,10 @@
 {
     "packs":  [
                   {
-                      "id":  "Steam_update_31",
+                      "id":  "steam_update_test",
                       "name":  "No Update Found",
                       "description":  "No game update has been detected!\n\nUpdates are only available for stable releases!",
-                      "downloadURI":  "",
+                      "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/test.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/no-update.png"
                   }
               ]
