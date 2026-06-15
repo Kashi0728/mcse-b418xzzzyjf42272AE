@@ -1,9 +1,9 @@
 {
     "packs":  [
                   {
-                      "id":  "SU31 Update Files",
-                      "name":  "No Updates Found!",
-                      "description":  "Currently there are no game updates available!\n\nIn-game update files are not available for preview versions!",
+                      "id":  "Steam_update_31",
+                      "name":  "No Update Found",
+                      "description":  "No game update has been detected!\n\nUpdates are only available for stable releases!",
                       "downloadURI":  "",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/no-update.png"
                   }
