@@ -1,9 +1,11 @@
 {
     "packs":  [
                   {
-                      "id":  "downloaded_update",
+                      "id":  "SU31 Update Files",
                       "name":  "Game Update Available!",
-                      "description":  "Download latest SU31 Game Update! To properly install, go in to the downloaded_update folder, cut and paste all of the folders inside to the main folder, and then you're finished! SU31 Patch Notes: Added Game Update helper to In-Game Minecraft Store",
+                      "description":  {"Download latest SU31 Game Update! To properly install, go in to the SU31 Update Files folder, cut and paste all of the folders inside to the main folder, and then you're finished!"
+                                      "SU31 Patch Notes: Added Game Update helper to In-Game Minecraft Store"
+                  },
                       "downloadURI":  "https://cdn.discordapp.com/attachments/1502250095230582795/1516000195203174440/test.zip?ex=6a310cb4&is=6a2fbb34&hm=8d8306055d539dc77e4f4d8fd97c72399bc69f4432f6fcfc2dff71b2d7f85abd&",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/old-water.png"
                   }
