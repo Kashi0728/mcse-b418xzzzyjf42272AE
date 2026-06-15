@@ -1,11 +1,10 @@
 {
     "packs":  [
                   {
-                      "id":  "assets",
-                      "name":  "test.download",
-                      "targetDirectoryName": "resourcepacks/testfolder",
-                      "description":  "Bring the classic bright blue water to modern Minecraft!",
-                      "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/old-water.zip",
+                      "id":  "mods",
+                      "name":  "Game Update Available!",
+                      "description":  "Download latest SU31 Game Update!",
+                      "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/test.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/old-water.png"
                   }
               ]
