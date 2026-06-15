@@ -1,0 +1,12 @@
+{
+    "packs":  [
+                  {
+                      "id":  "assets",
+                      "name":  "test.download",
+                      "targetDirectoryName": "resourcepacks/testfolder",
+                      "description":  "Bring the classic bright blue water to modern Minecraft!",
+                      "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/old-water.zip",
+                      "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/old-water.png"
+                  }
+              ]
+}
