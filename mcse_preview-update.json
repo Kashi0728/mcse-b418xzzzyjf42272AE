@@ -3,7 +3,7 @@
                   {
                       "id":  "steam_update_test",
                       "name":  "Up to Date",
-                      "description":  "You are on the latest release (SU30.custom.prv.build-1) \n\nYou are up to date!",
+                      "description":  "You are on the latest release (SU30.custom.prv.build) \n\nYou are up to date!",
                       "downloadURI":  "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/test.zip",
                       "imageUrl": "https://kashi0728.github.io/mcse-b418xzzzyjf42272AE/no-update.png"
                   }
